@@ -1,0 +1,1 @@
+Generated outputs are local and excluded from git. Review results and run_manifest.json before selectively publishing aggregate outputs. Do not publish selected_ids_LOCAL_ONLY.csv. No numerical output in this repository is an independently verified reproduction of the manuscript.
