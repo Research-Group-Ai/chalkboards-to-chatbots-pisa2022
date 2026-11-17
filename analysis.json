@@ -1,0 +1,16 @@
+{
+  "response_codes_verified": false,
+  "yes_code": null,
+  "no_code": null,
+  "tutoring": "ST297Q03JA",
+  "country": "CNT",
+  "student_id": "CNTSTUID",
+  "final_weight": "W_FSTUWT",
+  "replicate_prefix": "W_FSTURWT",
+  "fay": 0.5,
+  "sample_n": null,
+  "seed": 20261117,
+  "numeric_covariates": [],
+  "missing_codes": {},
+  "synthetic_demo": false
+}

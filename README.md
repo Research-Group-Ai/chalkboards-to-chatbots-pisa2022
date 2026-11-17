@@ -1,0 +1,3 @@
+Place locally downloaded OECD student data here. Do not commit data or selected-student identifiers.
+Use the PISA 2022 student file containing questionnaire responses, ESCS, ten mathematics plausible values and weights. Raw cognitive-item responses are not required by these analyses. If fields come from separate files, first merge one-to-one on country and student identifiers and verify row counts. Never join on student ID alone across countries.
+CSV numeric exports must convert SPSS user-missing codes to nulls, or explicitly list them in configs/analysis.json under missing_codes by column name. The SAV reader retains numeric response codes and uses pyreadstat's default conversion of user-missing values to NaN. Verify against the accompanying codebook.
