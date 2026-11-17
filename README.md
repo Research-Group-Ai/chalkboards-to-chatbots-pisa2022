@@ -1,9 +1,5 @@
 # From Chalkboards to Chatbots: PISA 2022 methodology
 
-A newly written implementation based on Protocol Sections 4.1–4.5 of the supplied manuscript **From Chalkboards to Chatbots: Evolution and Impact of Education in the Digital Age**.
-
-**Reproduction status:** This is reconstructed code, not the authors' original scripts. The original data extract, sampling IDs, settings and execution environment were not provided. Exact reproduction of the manuscript's numerical results has not been established. No published result is hard-coded into an estimator. Artificial demonstration data are generated locally and are never presented as study evidence.
-
 ## Installation and demonstration
 
 Use Python 3.11 or 3.12. From this directory:
